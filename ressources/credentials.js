@@ -1,0 +1,1 @@
+module.exports = cred = {login: 'login', password:'password'};
