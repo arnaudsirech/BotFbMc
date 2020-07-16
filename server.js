@@ -57,10 +57,4 @@ login({email: credentials.login, password: credentials.password}, (err, api) => 
     
 
 
-
- 
-
- 
- 
-
 });
